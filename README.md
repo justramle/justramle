@@ -6,7 +6,9 @@ This is the place where I opensource and clone stuffs but mostly I break things 
 - ☘️ I link pink and green stuffs
 
 <div align="center"> 
-:cloud: I plot my own wordcloud with jupiter notebook to show all the keywords about to me and things I love included my knowledge, where I go to go, foods I love, placed I have been, tools I use, subject I've learned 
+ :cloud: I plot my own wordcloud with jupiter notebook to show all the keywords about to me and things I love included my knowledge, where I go to go, foods I love, placed I have been, tools I use, subject I've learned 
+ <img src="https://raw.githubusercontent.com/justramle/justramle/master/images/wordlist.png" alt="WordCloud" width="100%">
+
 
 </div>
 
