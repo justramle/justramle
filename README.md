@@ -2,6 +2,7 @@
 <h1 align="center">
 Hello, World. I am Tram Le<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%">
 </h1>
+[![Instagram Badge](https://img.shields.io/badge/-@__jessicaalim-purple?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/_jessicaalim/)](https://instagram.com/_jessicaalim)
 
 This is the place where I opensource and clone stuffs but mostly I break things 🤣
 
@@ -11,6 +12,7 @@ This is the place where I opensource and clone stuffs but mostly I break things 
 - ☘️ I like pink and green stuffs
 
 ## Skills
+  <img src="https://img.shields.io/badge/HTML5-F26624.svg?style=for-the-badge&logo=html5&logoColor=white">
 
 ## My WordCloud
 <div align="center"> 
