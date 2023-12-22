@@ -12,7 +12,7 @@ This is the place where I opensource and clone stuffs but mostly I break things 
 ## My WordCloud
 <div align="center"> 
  :cloud: I plot my own wordcloud to show all the keywords about to me, things I love such as my knowledge, places I go to go, favorite foods, tools I use, subject I've learned 
- <img scr="images/wordlist.png"
- <img src="https://raw.githubusercontent.com/justramle/justramle/master/images/wordlist.png" alt="WordCloud" width="100%">
+ <img scr="images/wordlist.png" alt="WordCloud">
+<!--  <img src="https://raw.githubusercontent.com/justramle/justramle/master/images/wordlist.png" alt="WordCloud" width="100%"> -->
 </div>
 
