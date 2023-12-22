@@ -13,6 +13,8 @@ This is the place where I opensource and clone stuffs but mostly I break things 
 
 ## Skills
   <img src="https://img.shields.io/badge/HTML5-F26624.svg?style=for-the-badge&logo=html5&logoColor=white">
+  ![Static Badge](https://img.shields.io/badge/github-black?logo=github)
+
 
 ## My WordCloud
 <div align="center"> 
