@@ -2,8 +2,7 @@
 <div align="center">
   
 # Hi, I am Tram Le<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%">
-This is the place where I opensource and clone stuffs but mostly I break things 🤣
-
+This is the place where I open-source and clone various projects, but mostly, I end up breaking things! 😂
 </div>
 
 
@@ -28,7 +27,7 @@ This is the place where I opensource and clone stuffs but mostly I break things 
 ![Static Badge](https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=sqlalchemy&logoColor=black)
 ![Static Badge](https://img.shields.io/badge/MySQL-4169E1?style=for-the-badge&logo=mysql&logoColor=white)
 
-
+![Static Badge](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/Tensorflow-ECD53F?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/PyTorch-3C2179?style=for-the-badge&logo=pytorch&logoColor=white)
