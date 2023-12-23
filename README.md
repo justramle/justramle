@@ -40,9 +40,7 @@ This is the place where I opensource and clone stuffs but mostly I break things 
 ![Static Badge](https://img.shields.io/badge/Git-D3FB52?style=for-the-badge&logo=git&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
-
-
-
+<img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=justramle&theme=omni&hide_border=true&include_all_commits=true&count_private=true&layout=compact&hide_progress=true">
 
 </div>
 
