@@ -13,8 +13,11 @@ This is the place where I opensource and clone stuffs but mostly I break things 
 - ☘️ I like pink and green stuffs
 
 ## Skills
-  
+<div algin="center">
 
+![Static Badge](https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+
+</div>
 
 ## Welcome to my WordCloud :cloud:
 <div align="center">  
