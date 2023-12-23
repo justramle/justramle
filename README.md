@@ -16,8 +16,9 @@ This is the place where I opensource and clone stuffs but mostly I break things 
 
 ## Welcome to my WordCloud :cloud:
 <div align="center"> 
-  It's all the keywords about me: 
+  It's all the keywords about me: </br>
   My Knowledge, favorite foods, interest things, places to travel, tools and subject I've learned
+  
  <img src="https://raw.githubusercontent.com/justramle/justramle/master/images/wordlist.png" alt="WordCloud" width="80%">
 </div>
 
