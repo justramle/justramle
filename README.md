@@ -13,11 +13,9 @@ This is the place where I open-source and clone various projects, but mostly, I 
 <!-- About -->
 ## About Me
 - ☘️ I like pink stuffs
-- I'm a third-year CS student at KSU. My academic journey has helped me understanding the fundamental principles of object-oriented programming, data structures, and algorithm design as well as testing methodologies. My passion particularly lies in machine learning and neural networks. The topic of GraphNN and GraphML that taught by my instructor was inital captures my attention. I find the process of training models particularly fascinating, especially complex layers connection. Not only using framework and library to achieve the result, I also desire building it from the ground up to understand the interactions. The aspect of machine learning offers both unique and intriguing challenges that I am want to explore further because I want to build useful real world application. Although I am not perfect at it yet but I am constantly learning and improving my skills and staying up-to-date with the latest trends in the industry.
-
+- I'm a third-year CS student at KSU. My academic journey has helped me understanding the fundamental principles of object-oriented programming, data structures, and algorithm design as well as testing methodologies. My passion particularly lies in machine learning and neural networks. The topic of GraphNN and GraphML was introduced by my instructor initally captured my attention. Especially, I find the process of training models and recognize patterns to make decisions based on the interconnection layers particularly fascinating. Not only utilize frameworks and librarys to achieve the result, I also desire to learn it from the ground up. The unique and intriguing challenge of machine learning motivate me to delve deeper and applying these skills in real-world scenarios such as climate change,... Although I am not perfect at it yet but I am constantly learning and improving my skills and staying up-to-date with the latest trends in the industry.
 
 ## Skills
-
 <div align="center">
 
 ![Static Badge](https://img.shields.io/badge/HTML-F26624?style=for-the-badge&logo=html5&logoColor=white)
