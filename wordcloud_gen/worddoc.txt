@@ -44,6 +44,8 @@ Vietnamese
 Social Analysis
 France
 Tabular
+Boba
+Bubble Tea
 OOP
 NoSQL
 pho
