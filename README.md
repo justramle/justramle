@@ -15,10 +15,10 @@ This is the place where I opensource and clone stuffs but mostly I break things 
 
 
 ## Welcome to my WordCloud :cloud:
-<div align="center"> 
-  It's all the keywords about me: </br>
-  My Knowledge, favorite foods, interest things, places to travel, tools and subject I've learned
-  
+<div align="center">  
+<h4>It's all the keywords about me: </h4>
+<p> 🧠 My Knowledge - 🧋Favorite foods - 🏸 Interest things - ✈️ Places to travel - 📚 Tools and subject I've learned</p>
+<br>
  <img src="https://raw.githubusercontent.com/justramle/justramle/master/images/wordlist.png" alt="WordCloud" width="80%">
 </div>
 
