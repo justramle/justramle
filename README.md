@@ -20,11 +20,29 @@ This is the place where I opensource and clone stuffs but mostly I break things 
 ![Static Badge](https://img.shields.io/badge/CSS-2465F1?style=for-the-badge&logo=css3&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![Static Badge](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Static Badge](https://img.shields.io/badge/Canva-yellow?style=for-the-badge&logo=canva&logoColor=white)
 
-  
+
+![Static Badge](https://img.shields.io/badge/C%2B%2B-A8B9CC?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Static Badge](https://img.shields.io/badge/Flask-29BEB0?style=for-the-badge&logo=flask&logoColor=white)
+![Static Badge](https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=sqlalchemy&logoColor=black)
+![Static Badge](https://img.shields.io/badge/MySQL-4169E1?style=for-the-badge&logo=mysql&logoColor=white)
+
+
 ![Static Badge](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white)
-
+![Static Badge](https://img.shields.io/badge/Tensorflow-ECD53F?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Static Badge](https://img.shields.io/badge/PyTorch-3C2179?style=for-the-badge&logo=pytorch&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Static Badge](https://img.shields.io/badge/Pandas-D70F64?style=for-the-badge&logo=pandas&logoColor=white)
+![Static Badge](https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white)
+
+![Static Badge](https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=github&logoColor=white)
+![Static Badge](https://img.shields.io/badge/Git-D3FB52?style=for-the-badge&logo=git&logoColor=white)
+![Static Badge](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+
+
+
+
 
 </div>
 
