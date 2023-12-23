@@ -1,9 +1,11 @@
 <!-- Header -->
-<h1 align="center">
-Hi, I am Tram Le<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%">
-</h1>
-
+<div align="center">
+  
+# Hi, I am Tram Le<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%">
 This is the place where I opensource and clone stuffs but mostly I break things 🤣
+
+</div>
+
 
 <!-- About -->
 ## About Me
