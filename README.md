@@ -14,9 +14,10 @@ This is the place where I opensource and clone stuffs but mostly I break things 
   
 
 
-## My WordCloud
+## Welcome to my WordCloud :cloud:
 <div align="center"> 
- :cloud: I plot my own wordcloud to show all the keywords about to me, things I love such as my knowledge, places I go to go, favorite foods, tools I use, subject I've learned 
+  It's all the keywords about me: 
+  My Knowledge, favorite foods, interest things, places to travel, tools and subject I've learned
  <img src="https://raw.githubusercontent.com/justramle/justramle/master/images/wordlist.png" alt="WordCloud" width="80%">
 </div>
 
