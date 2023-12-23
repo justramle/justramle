@@ -2,7 +2,6 @@
 <h1 align="center">
 Hello, World. I am Tram Le<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%">
 </h1>
-[![Instagram Badge](https://img.shields.io/badge/-@__jessicaalim-purple?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/_jessicaalim/)](https://instagram.com/_jessicaalim)
 
 This is the place where I opensource and clone stuffs but mostly I break things 🤣
 
