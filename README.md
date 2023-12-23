@@ -1,19 +1,27 @@
+<img align="right" src="https://raw.githubusercontent.com/justramle/justramle/master/images/pro.png" alt="boba" width="30%">
+
 <!-- Header -->
-<div align="center">
+<div align="center" width="10%">
   
 # Hi, I am Tram Le<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%">
 <a href="mailto:justramle@gmail.com"><img src="https://img.shields.io/badge/justramle215-email?logo=gmail&label=Email"></a>
 <a href="https://www.instagram.com/justramle/"><img src="https://img.shields.io/badge/justramle-DB44B8?logo=instagram&label=insta"></a>
 <a href="https://www.linkedin.com/justramle/"><img src="https://img.shields.io/badge/Tram%20Le-0A66C2?logo=linkedin&label=LinkedIn"></a>
 
-This is the place where I open-source and clone various projects, but mostly, I end up breaking things! 😂
+This is the place where I open-source and clone various projects, but mostly, I end up breaking things! 😂 
 </div>
-<img align="right" src="https://raw.githubusercontent.com/justramle/justramle/master/images/pro.png" alt="boba" width="30%">
 
 <!-- About -->
 ## About Me
-- ☘️ I like pink stuffs
-- I'm a third-year CS student at KSU. My academic journey has helped me understanding the fundamental principles of object-oriented programming, data structures, and algorithm design as well as testing methodologies. My passion particularly lies in machine learning and neural networks. The topic of GraphNN and GraphML was introduced by my instructor initally captured my attention. Especially, I find the process of training models and recognize patterns to make decisions based on the interconnection layers particularly fascinating. Not only utilize frameworks and librarys to achieve the result, I also desire to learn it from the ground up. The unique and intriguing challenge of machine learning motivate me to delve deeper and applying these skills in real-world scenarios such as climate change,... Although I am not perfect at it yet but I am constantly learning and improving my skills and staying up-to-date with the latest trends in the industry.
+<div align="left"> 
+  
+- 🍀 I like pink 🌸 stuffs
+- 🍀 My little love for boba 🧋 led to a fun twist: I created a quirky landing page for it in my free time and call it a little corner where my boba obsession gets to shine 🤫🤭 <strong><a href="https://justramle.github.io/my_profile/">Click to check it out!</a></strong> ✨🌟
+- 🍀 I'm a third-year CS student at KSU 👩🏻‍💻 📝 ✏️
+- 🍀 My academic journey has helped me understanding the fundamental principles of object-oriented programming, data structures, and algorithm design as well as testing methodologies.
+- 🍀 My passion particularly lies in machine learning and neural networks. The topic of GraphNN and GraphML was introduced by my instructor initally captured my attention. Especially, I find the process of training models and recognize patterns to make decisions based on the interconnection layers particularly fascinating. Not only utilize frameworks and librarys to achieve the result, I also desire to learn it from the ground up. The unique and intriguing challenge of machine learning motivate me to delve deeper and applying these skills in real-world scenarios such as climate change,... Although I am not perfect at it yet but I am constantly learning and improving my skills and staying up-to-date with the latest trends in the industry.
+  
+</div>
 
 ## Skills
 <div align="center">
