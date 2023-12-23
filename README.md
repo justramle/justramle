@@ -8,13 +8,13 @@
 
 This is the place where I open-source and clone various projects, but mostly, I end up breaking things! 😂
 </div>
-
+<img align="right" src="https://raw.githubusercontent.com/justramle/justramle/master/images/pro.png" alt="boba" width="30%">
 
 <!-- About -->
 ## About Me
-- 👩🏻‍💻 Currently, I'm third year CS student at KSU
-- ☘️ I like pink and green stuffs
-  <img align="right" src="https://raw.githubusercontent.com/justramle/justramle/master/images/pro.png" alt="boba" width="30%">
+- ☘️ I like pink stuffs
+- I'm a third-year CS student at KSU. My academic journey has helped me understanding the fundamental principles of object-oriented programming, data structures, and algorithm design as well as testing methodologies. My passion particularly lies in machine learning and neural networks. The topic of GraphNN and GraphML that taught by my instructor was inital captures my attention. I find the process of training models particularly fascinating, especially complex layers connection. Not only using framework and library to achieve the result, I also desire building it from the ground up to understand the interactions. The aspect of machine learning offers both unique and intriguing challenges that I am want to explore further because I want to build useful real world application. Although I am not perfect at it yet but I am constantly learning and improving my skills and staying up-to-date with the latest trends in the industry.
+
 
 ## Skills
 
