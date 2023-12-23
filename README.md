@@ -6,7 +6,7 @@
 # Hi, I am Tram Le<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%">
 <a href="mailto:justramle215@gmail.com"><img src="https://img.shields.io/badge/justramle215-email?logo=gmail&label=Email"></a>
 <a href="https://www.instagram.com/justramle/"><img src="https://img.shields.io/badge/justramle-DB44B8?logo=instagram&label=insta"></a>
-<a href="https://www.linkedin.com/justramle/"><img src="https://img.shields.io/badge/Tram%20Le-0A66C2?logo=linkedin&label=LinkedIn"></a>
+<a href="https://www.linkedin.com/in/justramle/"><img src="https://img.shields.io/badge/Tram%20Le-0A66C2?logo=linkedin&label=LinkedIn"></a>
 
 This is the place where I open-source and clone various projects, but mostly, I end up breaking things! 😂 
 </div>
