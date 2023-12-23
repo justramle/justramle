@@ -23,7 +23,7 @@ This is the place where I open-source and clone various projects, but mostly, I 
   
 </div>
 
-## Skills
+## Some tools I use
 <div align="center">
 
 ![Static Badge](https://img.shields.io/badge/HTML-F26624?style=for-the-badge&logo=html5&logoColor=white)
