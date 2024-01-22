@@ -19,7 +19,7 @@ This is the place where I open-source and clone various projects, but mostly, I 
 - 🍀 My little love for boba 🧋 led to a fun twist: I created a quirky landing page for it in my free time and call it a little corner where my boba obsession gets to shine 🤫🤭 <strong><a href="https://justramle.github.io/boba/">Click to check it out!</a></strong> ✨🌟
 - 🍀 I'm full-time CS student at KSU 👩🏻‍💻 📝 ✏️
 - 🍀 My academic journey has helped me understanding the fundamental principles of object-oriented programming, data structures, and algorithm design as well as testing methodologies.
-- 🍀 My interest particularly lies in machine learning, especially deep neural networks. The topic of GraphNN and GraphML (different from traditional NN) was introduced by my instructor initally captured my attention. In generally, what I find most fascinating is the way these networks process input information through various hidden layers to generate an output. I have experienced in a few small projects, mainly school-projects and utilize code from my instructors.
+- 🍀 My interest particularly lies in machine learning, especially deep neural networks. The topic of GraphNN and GraphML (different from traditional NN) was introduced by my instructor initally captured my attention. In generally, what I find most fascinating is the way these networks process input information conennect with hidden layers to generate an output. I have experienced in a few small projects, mainly school-projects and utilize code from my instructors.
   
 </div>
 
