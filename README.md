@@ -57,7 +57,7 @@ This is the place where I open-source and clone various projects, but mostly, I 
 ## My Dev Card 🥈
 <div align="center">
 <a href="https://app.daily.dev/justramle">
-  <img src="https://api.daily.dev/devcards/c2775addb6e44370809dfd34a6568f30.png?r=45r" width="300" alt="Tram Le's Dev Card"/>
+  <img src="https://api.daily.dev/devcards/c2775addb6e44370809dfd34a6568f30.png?r=45r" width="200" alt="Tram Le's Dev Card"/>
 </a>
 </div>
 
