@@ -1,12 +1,12 @@
-<img align="right" src="https://raw.githubusercontent.com/justramle/justramle/master/images/pro.png" alt="boba" width="30%">
 
 <!-- Header -->
 <div align="center" width="10%">
-  
+  <img align="right" src="https://raw.githubusercontent.com/justramle/justramle/master/images/pro.png" alt="boba" width="30%">
+
 # Hi, I am Tram Le<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%">
 <a href="mailto:justramle215@gmail.com"><img src="https://img.shields.io/badge/justramle215-email?logo=gmail&label=Email"></a>
 <a href="https://www.instagram.com/justramle/"><img src="https://img.shields.io/badge/justramle-DB44B8?logo=instagram&label=insta"></a>
-<a href="https://www.linkedin.com/in/justramle/"><img src="https://img.shields.io/badge/Tram%20Le-0A66C2?logo=linkedin&label=LinkedIn"></a>
+<a href="https://www.linkedin.com/in/justraml/"><img src="https://img.shields.io/badge/Tram%20Le-0A66C2?logo=linkedin&label=LinkedIn"></a>
 
 This is the place where I open-source and clone various projects, but mostly, I end up breaking things! 🤣 
 </div>
@@ -19,7 +19,7 @@ This is the place where I open-source and clone various projects, but mostly, I 
 - 🍀 My little love for boba 🧋 led to a fun twist: I created a quirky landing page for it in my free time and call it a little corner where my boba obsession gets to shine 🤫🤭 <strong><a href="https://justramle.github.io/boba/">Click to check it out!</a></strong> ✨🌟
 - 🍀 I'm full-time CS student at KSU 👩🏻‍💻 📝 ✏️
 - 🍀 My academic journey has helped me understanding the fundamental principles of object-oriented programming, data structures, and algorithm design as well as testing methodologies.
-- 🍀 My passion particularly lies in machine learning, especially deep neural networks. The topic of GraphNN and GraphML was introduced by my instructor initally captured my attention. Especially, I find the process of training models and recognize patterns to make decisions based on the interconnection layers particularly fascinating. Not only utilize frameworks and librarys to achieve the result, I also desire to learn and understand it from the ground up. The unique and intriguing challenge of machine learning motivate me to delve deeper and applying these skills in real-world scenarios such as climate change, health care,... Although I am not perfect at it yet but I am constantly learning and improving my skills and staying up-to-date with the latest trends in the industry.
+- 🍀 My interest particularly lies in machine learning, especially deep neural networks. The topic of GraphNN and GraphML (different from traditional NN) was introduced by my instructor initally captured my attention. In generally, what I find most fascinating is the way these networks process input information conennect with hidden layers to generate an output. I have experienced in a few small projects, mainly school-projects and utilize code from my instructors.
   
 </div>
 
@@ -54,7 +54,14 @@ This is the place where I open-source and clone various projects, but mostly, I 
 
 </div>
 
-## Welcome to my WordCloud :cloud:
+## My Dev Card 🥈
+<div align="center">
+<a href="https://app.daily.dev/justramle">
+  <img src="https://api.daily.dev/devcards/c2775addb6e44370809dfd34a6568f30.png?r=45r" width="200" alt="Tram Le's Dev Card"/>
+</a>
+</div>
+
+## Welcome to my Fun WordCloud :cloud:
 <div align="center">  
 <h4>Here's some highlight keywords about me: </h4>
  <p> 🧠 Exploring My Knowledge - 🍜 Culinary Favorites - 🏸 Hobbies and Interests <br>
