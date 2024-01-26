@@ -1,8 +1,8 @@
-<img align="right" src="https://raw.githubusercontent.com/justramle/justramle/master/images/pro.png" alt="boba" width="30%">
 
 <!-- Header -->
 <div align="center" width="10%">
-  
+  <img align="right" src="https://raw.githubusercontent.com/justramle/justramle/master/images/pro.png" alt="boba" width="30%">
+
 # Hi, I am Tram Le<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%">
 <a href="mailto:justramle215@gmail.com"><img src="https://img.shields.io/badge/justramle215-email?logo=gmail&label=Email"></a>
 <a href="https://www.instagram.com/justramle/"><img src="https://img.shields.io/badge/justramle-DB44B8?logo=instagram&label=insta"></a>
