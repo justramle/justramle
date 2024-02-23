@@ -35,13 +35,11 @@ This is the place where I open-source and clone various projects, but mostly, I 
 
 ![Static Badge](https://img.shields.io/badge/C%2B%2B-A8B9CC?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/Flask-29BEB0?style=for-the-badge&logo=flask&logoColor=white)
-![Static Badge](https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=sqlalchemy&logoColor=black)
 ![Static Badge](https://img.shields.io/badge/MySQL-4169E1?style=for-the-badge&logo=mysql&logoColor=white)
 
 ![Static Badge](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/Tensorflow-ECD53F?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Static Badge](https://img.shields.io/badge/PyTorch-3C2179?style=for-the-badge&logo=pytorch&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/Pandas-D70F64?style=for-the-badge&logo=pandas&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white)
