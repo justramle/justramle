@@ -64,6 +64,6 @@ This is the place where I open-source and clone various projects, but mostly, I 
 <h4>Here's some highlight keywords about me: </h4>
  <p> 🧠 Exploring My Knowledge - 🍜 Culinary Favorites - 🏸 Hobbies and Interests <br>
    ✈️ Dream Travel Destinations - 📚 Academic and Practical Skills Acquired <br> </p>  
- <img src="https://raw.githubusercontent.com/justramle/justramle/master/images/heartwordcloud.png" alt="WordCloud" width="80%">
+ <img src="https://raw.githubusercontent.com/justramle/justramle/master/images/heartwordcould.png" alt="WordCloud" width="50%">
 </div>
 
