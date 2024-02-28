@@ -1,0 +1,21 @@
+{
+  "dependencies": {
+    "d3": "^7.8.5",
+    "d3-cloud": "^1.2.7",
+    "yarn": "^1.22.21"
+  },
+  "name": "wordcloud-bg-generator",
+  "description": "<!-- Header --> <div align=\"center\" width=\"10%\">   <img align=\"right\" src=\"https://raw.githubusercontent.com/justramle/justramle/master/images/pro.png\" alt=\"boba\" width=\"30%\">",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "webpack": "^5.90.2",
+    "webpack-cli": "^5.1.4"
+  }
+}

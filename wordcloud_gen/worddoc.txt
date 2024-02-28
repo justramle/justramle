@@ -1,78 +1,60 @@
 
-Computer Science
+ComputerScience
 Student
-cluster
-nice
-NLP
+pattern
+LLM
 pandas
+numpy
 Tram
 ML
-GraphML
-Jeju Island
 Supervise
 ipynb
-OST
-kpop
-Xin Chao
-scikit Learn
+XinChao
+scikitLearn
 Classification
+regression
+logistic
+neuralnets
+deeplearning
+backpropagation
+feedforward
+fullyconnectedlayers
+discrete
+continous
+sigmoid
+reLU
+pca
+db
 SQL
-pairwise distance
-AI
+pairwise
 KSU
+dbscan
 versioncontrol
-open source
+opensource
 geospatial
 Unsupervise
 kmeans
-dataframe
-Scrum
-Data Mining
-numpy
 knn
-Matlab
+MiningTechniques
+numpy
 GraphNN
-Italy
 climate
-math
+gradientdecent
 MySQL
-travel
-Hugging Face
+HuggingFace
 nodes
 edges
-German
-Python
 Vietnamese
-Social Analysis
-France
+SocialAnalysis
 Tabular
 Boba
-Bubble Tea
 OOP
 NoSQL
-regression
-pho
-carbon emission
-banh mi
 Algorithms
-GNN
-kdrama
-Linux
-foods
-Earth
-pasta
-Github
-Learning
-Class
-Train model
-Viet spicy noodle
-Data modeling
-DNN
+tsne
 Visualization
-sticky rice
 Javascript
 flask
 react
 Html
 CSS
-C++
