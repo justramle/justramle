@@ -55,7 +55,7 @@ Here is my digital sandbox where I spice things up with unexpected 'features'! �
 
 ## Welcome to my Fun WordCloud :cloud:
 <div align="center">  
- <p> 🧠 Exploring things I have learned  📚 Academic and Practical Skills Acquired  </p>  
+ <p> 🧠 Exploring things I have learned  </p>  
  <img src="https://raw.githubusercontent.com/justramle/justramle/master/images/heartwordcould.png" alt="WordCloud" width="50%">
 </div>
 
