@@ -28,7 +28,7 @@ Here is my digital sandbox where I spice things up with unexpected 'features'! �
 </div>
 </div>
 
-## Some of the tools I have been practicing with...
+## Some of the tools I have been practicing with... 🛠️
 <div align="center">
 
 ![Static Badge](https://img.shields.io/badge/HTML-F26624?style=for-the-badge&logo=html5&logoColor=white)
