@@ -53,7 +53,7 @@ Here is my digital sandbox where I spice things up with unexpected 'features'! ð
 ![Static Badge](https://img.shields.io/badge/Git-D3FB52?style=for-the-badge&logo=git&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
-<img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=justramle&theme=ambient_gradient&hide_border=true&include_all_commits=true&count_private=true&layout=compact&hide_progress=true">
+<img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=justramle&theme=nightowl&hide_border=true&include_all_commits=true&count_private=true&layout=compact&hide_progress=true">
 </div>
 
 
