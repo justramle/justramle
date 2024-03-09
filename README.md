@@ -15,7 +15,7 @@ Here is my digital sandbox where I spice things up with unexpected 'features'! ð
 ## About Me <img src="https://raw.githubusercontent.com/justramle/justramle/master/images/pro.png" alt="boba" width="8%">
 
 <div> 
-<img align="right" src="https://api.daily.dev/devcards/c2775addb6e44370809dfd34a6568f30.png?r=45r" width="200" alt="Tram Le's Dev Card"/>
+<img align="right" src="https://api.daily.dev/devcards/c2775addb6e44370809dfd34a6568f30.png?r=45r" width="20%" alt="Tram Le's Dev Card"/>
 
 <div align="left"> 
   
@@ -60,6 +60,6 @@ Here is my digital sandbox where I spice things up with unexpected 'features'! ð
 ## Welcome to my Fun WordCloud :cloud:
 <div align="center">  
  <p> ðŸ§  Exploring things I have learned  </p>  
- <img src="https://raw.githubusercontent.com/justramle/justramle/master/images/heartwordcould.png" alt="WordCloud" width="50%">
+ <img src="https://raw.githubusercontent.com/justramle/justramle/master/images/heartword.png" alt="WordCloud" width="50%">
 </div>
 
