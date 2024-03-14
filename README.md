@@ -44,7 +44,7 @@ Here is my digital sandbox where I spice things up with unexpected 'features'! ð
 
 ![Static Badge](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white)
-![Static Badge](https://img.shields.io/badge/Tensorflow-ECD53F?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch Badge](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=fff&style=for-the-badge)
 ![Static Badge](https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/Pandas-D70F64?style=for-the-badge&logo=pandas&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white)
@@ -61,5 +61,7 @@ Here is my digital sandbox where I spice things up with unexpected 'features'! ð
 <div align="center">  
  <p> ðŸ§  Exploring things I have learned  </p>  
  <img src="https://raw.githubusercontent.com/justramle/justramle/master/images/heartword.png" alt="WordCloud" width="50%">
+  <--![Static Badge](https://img.shields.io/badge/Tensorflow-ECD53F?style=for-the-badge&logo=tensorflow&logoColor=white)-->
+
 </div>
 
