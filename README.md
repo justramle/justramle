@@ -22,8 +22,8 @@ Here is my digital sandbox where I spice things up with unexpected 'features'! �
 - 🍀 I like pink 🌸 stuffs
 - 🍀 My little love for boba 🧋 led to a fun twist: I created a quirky landing page for it in my free time and call it a little corner where my boba obsession gets to shine 🤫🤭 <strong><a href="https://justramle.github.io/boba/">Click to check it out!</a></strong> ✨🌟
 - 🍀 I'm full-time CS student at KSU 👩🏻‍💻 📝 ✏️
-- 🍀 My academic journey has helped me understanding the fundamental principles of object-oriented programming, data structures, and algorithm design as well as testing methodologies.
-- 🍀 My interest particularly lies in AI, especially deep learning. My attention was sparked when my instructor introduced the class a very interesting topic: Graph Convolutional Neural Network. Furthermore, I am fascinating to learn more about the visualization of deep learning model and computer vision
+- 🍀 My academic journey has helped me understanding the fundamental principles of operating systetem, computer networking, object-oriented programming, data structures, and algorithm design as well as testing methodologies.
+- 🍀 My interest particularly strong in AI-based technologies. My enthusiasm was sparked when my instructor introduced a very interesting topic: Graph CNN. Additionally, I have been taught the foundational concepts and mathematics behind neural network architectures, including MLPs, CNNs, and RNNs with LSTMs and Transformer. Furthermore, I am fascinated to learn more about the visualization techniques used in Explainable AI models and Generative AI techniques using GANs and difusion models.
   
 </div>
 </div>
