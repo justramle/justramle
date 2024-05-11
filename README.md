@@ -15,7 +15,7 @@ Here is my digital sandbox where I spice things up with unexpected 'features'! ð
 ## About Me <img src="https://raw.githubusercontent.com/justramle/justramle/master/images/pro.png" alt="boba" width="8%">
 
 <div> 
-<img align="right" src="https://api.daily.dev/devcards/c2775addb6e44370809dfd34a6568f30.png?r=45r" width="20%" alt="Tram Le's Dev Card"/>
+<img align="right" src="https://api.daily.dev/devcards/c2775addb6e44370809dfd34a6568f30.png?r=45r" width="25%" alt="Tram Le's Dev Card"/>
 
 <div align="left"> 
   
