@@ -19,9 +19,7 @@ Here is my digital sandbox where I spice things up with unexpected 'features'! �
 
 <div align="left"> 
   
-  🍀 I like pink 🌸 stuffs <br> 
-  
-  🍀 My little love for boba 🧋 led to a fun twist: I created a quirky landing page for it in my free time and call it a little corner where my boba obsession gets to shine 🤫🤭 <strong><a href="https://justramle.github.io/boba/">Click to check it out!</a></strong> ✨🌟 <br>
+  🍀 I like pink 🌸 stuffs and my little love for boba 🧋 led to a fun twist: I created a quirky landing page for it in my free time and call it a little corner where my boba obsession gets to shine 🤫🤭 <strong><a href="https://justramle.github.io/boba/">Click to check it out!</a></strong> ✨🌟 <br>
   
   🍀 I'm full-time CS student at <a href="https://www.kent.edu/cs"> KSU </a> 👩🏻‍💻 📝 ✏️ <br>
   
