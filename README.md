@@ -23,7 +23,7 @@ Here is my digital sandbox where I spice things up with unexpected 'features'! �
   
   🍀 I'm full-time CS student at <a href="https://www.kent.edu/cs"> KSU </a> 👩🏻‍💻 📝 ✏️ . My academic journey has helped me understanding the fundamental principles of operating systetem, computer networking, object-oriented and functional programming, data structures, and algorithm design as well as testing methodologies. <br>
   
-  🍀 My keen interest lies particularly in AI-based technologies and my enthusiasm was sparked when my instructor introduced a very interesting topic: Graph Convolutional Networks. Additionally, I have been taught the foundational concepts and mathematics behind multiple neural network architectures, including MLPs, CNNs, and RNNs with LSTMs and Transformer. Furthermore, I am fascinated by the visualization and interpretation of AI models, as well as Generative AI techniques involving GANs, diffusion models, and LLMs.
+  🍀 My keen interest lies particularly in AI-based technologies and my enthusiasm was sparked when my instructor introduced a very interesting topic: Graph Convolutional Networks. Additionally, I have been taught the foundational concepts and mathematics behind multiple neural net architectures, including MLPs, CNNs, and RNNs with LSTMs and Transformer. Furthermore, I am fascinated by the visualization and interpretation of AI models, as well as Generative AI techniques involving GANs, diffusion models, and LLMs.
   
 </div>
 </div>
