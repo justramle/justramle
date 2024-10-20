@@ -4,7 +4,6 @@
   
 # Hi, I am Tram Le<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"> 
 <a href="mailto:justramle215@gmail.com"><img src="https://img.shields.io/badge/justramle215-email?logo=gmail&label=Email"></a>
-<a href="https://www.instagram.com/justramle/"><img src="https://img.shields.io/badge/justramle-DB44B8?logo=instagram&label=insta"></a>
 <a href="https://www.linkedin.com/in/justramle/"><img src="https://img.shields.io/badge/Tram%20Le-0A66C2?logo=linkedin&label=LinkedIn"></a>
 
 Here is my digital sandbox where I spice things up with unexpected 'features'! 😅👩🏻‍💻💥
@@ -21,9 +20,7 @@ Here is my digital sandbox where I spice things up with unexpected 'features'! �
   
   🍀 I like pink 🌸 stuffs and my little love for boba 🧋 led to a fun twist: I created a quirky landing page for it in my free time and call it a little corner where my boba obsession gets to shine 🤫🤭 <strong><a href="https://justramle.github.io/boba/">Click to check it out!</a></strong> ✨🌟 <br>
   
-  🍀 I'm full-time CS student at <a href="https://www.kent.edu/cs"> KSU </a> 👩🏻‍💻 📝 ✏️ . My academic journey has helped me understanding the fundamental principles of operating systetem, computer networking, object-oriented and functional programming, data structures, and algorithm design as well as testing methodologies. <br>
-  
-  🍀 My keen interest lies particularly in AI-based technologies and my enthusiasm was sparked when my instructor introduced a very interesting topic: Graph Convolutional Networks. Additionally, I have been taught the foundational concepts and mathematics behind multiple neural net architectures, including MLPs, CNNs, and RNNs with LSTMs and Transformer. Furthermore, I am fascinated by the visualization and interpretation of AI models, as well as Generative AI techniques involving GANs, diffusion models, and LLMs.
+  🍀 I'm full-time CS student at <a href="https://www.kent.edu/cs"> KSU </a> 👩🏻‍💻 📝 ✏ . My keen interest lies AI-based technologies, particularly in Computer Vision,.
   
 </div>
 </div>
