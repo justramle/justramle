@@ -12,9 +12,9 @@ Here is my digital sandbox where I spice things up with unexpected 'features'! �
 
 <!-- About -->
 ## About Me <img src="https://raw.githubusercontent.com/justramle/justramle/master/images/pro.png" alt="boba" width="8%">
+<img align="right" src="https://api.daily.dev/devcards/c2775addb6e44370809dfd34a6568f30.png?r=45r" width="10%" alt="Tram Le's Dev Card"/>
 
 <div> 
-<img align="right" src="https://api.daily.dev/devcards/c2775addb6e44370809dfd34a6568f30.png?r=45r" width="25%" alt="Tram Le's Dev Card"/>
 
 <div align="left"> 
   
@@ -23,6 +23,34 @@ Here is my digital sandbox where I spice things up with unexpected 'features'! �
   🍀 I'm full-time CS student at <a href="https://www.kent.edu/cs"> KSU </a> 👩🏻‍💻 📝 ✏ . My keen interest lies AI-based technologies, particularly in Computer Vision,.
   
 </div>
+</div>
+
+## Some of the tools I have been practicing with... 🛠️
+<div align="center">
+
+![Static Badge](https://img.shields.io/badge/HTML-F26624?style=for-the-badge&logo=html5&logoColor=white)
+![Static Badge](https://img.shields.io/badge/CSS-2465F1?style=for-the-badge&logo=css3&logoColor=white)
+![Static Badge](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![Static Badge](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Static Badge](https://img.shields.io/badge/Canva-yellow?style=for-the-badge&logo=canva&logoColor=white)
+
+
+![Static Badge](https://img.shields.io/badge/C%2B%2B-A8B9CC?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Static Badge](https://img.shields.io/badge/Flask-29BEB0?style=for-the-badge&logo=flask&logoColor=white)
+![Static Badge](https://img.shields.io/badge/MySQL-4169E1?style=for-the-badge&logo=mysql&logoColor=white)
+
+![Static Badge](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Static Badge](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white)
+![PyTorch Badge](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=fff&style=for-the-badge)
+![Static Badge](https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Static Badge](https://img.shields.io/badge/Pandas-D70F64?style=for-the-badge&logo=pandas&logoColor=white)
+![Static Badge](https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white)
+
+![Static Badge](https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=github&logoColor=white)
+![Static Badge](https://img.shields.io/badge/Git-D3FB52?style=for-the-badge&logo=git&logoColor=white)
+![Static Badge](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+
+<img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=justramle&theme=nightowl&hide_border=true&include_all_commits=true&count_private=true&layout=compact&hide_progress=true">
 </div>
 
 
