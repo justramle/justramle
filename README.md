@@ -53,7 +53,7 @@ Here is my digital sandbox where I spice things up with unexpected 'features'! ð
 ## Welcome to my Boba-VietFood WordCloud
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/justramle/justramle/main/images/boba_wordcloud.png" alt="Boba & Vietnamese food word cloud" width="100%">
+  <img src="https://raw.githubusercontent.com/justramle/justramle/main/images/boba_wordcloud.png" alt="Boba & Vietnamese food word cloud" width="80%">
 </div>
 
 </div> 
