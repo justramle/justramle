@@ -15,7 +15,7 @@ Here is my digital sandbox where I spice things up with unexpected 'features'! �
 
 <div> 
 
-<div align="left"> 
+<div align="center"> 
   
   🍀 I like pink 🌸 stuffs and my little love for boba 🧋 </b>
 
@@ -29,7 +29,7 @@ Here is my digital sandbox where I spice things up with unexpected 'features'! �
 </div>
 
 ## Tech stack... 🛠️
-<img align="right" src="https://api.daily.dev/devcards/c2775addb6e44370809dfd34a6568f30.png?r=45r" width="10%" alt="Tram Le's Dev Card"/>
+<img align="right" src="https://api.daily.dev/devcards/c2775addb6e44370809dfd34a6568f30.png?r=45r" width="15%" alt="Tram Le's Dev Card"/>
 
 
 ![Static Badge](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
