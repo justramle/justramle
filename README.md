@@ -11,31 +11,22 @@ Here is my digital sandbox where I spice things up with unexpected 'features'! �
 </div>
 
 <!-- About -->
-## About Me <img src="https://raw.githubusercontent.com/justramle/justramle/master/images/pro.png" alt="boba" width="8%">
-<img align="right" src="https://api.daily.dev/devcards/c2775addb6e44370809dfd34a6568f30.png?r=45r" width="5%" alt="Tram Le's Dev Card"/>
+## About Me <img src="https://raw.githubusercontent.com/justramle/justramle/main/images/pro.png" alt="boba" width="8%">
+<img align="right" src="https://api.daily.dev/devcards/c2775addb6e44370809dfd34a6568f30.png?r=45r" width="10%" alt="Tram Le's Dev Card"/>
 
 <div> 
 
 <div align="left"> 
   
-  🍀 I like pink 🌸 stuffs and my little love for boba 🧋
+  🍀 I like pink 🌸 stuffs and my little love for boba 🧋 </b>
+
+  I even turned that love into code, check out my [Boba Website](#) and the [Boba Game](#) I built! 
+
     
 </div>
 </div>
 
-## Some of the tools I have been practicing with... 🛠️
-<div align="center">
-
-![Static Badge](https://img.shields.io/badge/HTML-F26624?style=for-the-badge&logo=html5&logoColor=white)
-![Static Badge](https://img.shields.io/badge/CSS-2465F1?style=for-the-badge&logo=css3&logoColor=white)
-![Static Badge](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![Static Badge](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Static Badge](https://img.shields.io/badge/Canva-yellow?style=for-the-badge&logo=canva&logoColor=white)
-
-
-![Static Badge](https://img.shields.io/badge/C%2B%2B-A8B9CC?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Static Badge](https://img.shields.io/badge/Flask-29BEB0?style=for-the-badge&logo=flask&logoColor=white)
-![Static Badge](https://img.shields.io/badge/MySQL-4169E1?style=for-the-badge&logo=mysql&logoColor=white)
+## Tech stack... 🛠️
 
 ![Static Badge](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white)
@@ -48,17 +39,18 @@ Here is my digital sandbox where I spice things up with unexpected 'features'! �
 ![Static Badge](https://img.shields.io/badge/Git-D3FB52?style=for-the-badge&logo=git&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
-<img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=justramle&theme=nightowl&hide_border=true&include_all_commits=true&count_private=true&layout=compact&hide_progress=true">
+![Static Badge](https://img.shields.io/badge/HTML-F26624?style=for-the-badge&logo=html5&logoColor=white)
+![Static Badge](https://img.shields.io/badge/CSS-2465F1?style=for-the-badge&logo=css3&logoColor=white)
+![Static Badge](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+
+<!-- <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=justramle&theme=nightowl&hide_border=true&include_all_commits=true&count_private=true&layout=compact&hide_progress=true"> -->
+
+
+## Welcome to my Boba-VietFood WordCloud
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/justramle/justramle/main/images/boba_wordcloud.png" alt="Boba & Vietnamese food word cloud" width="80%">
 </div>
-
-
-
-<!--
-## Welcome to my Fun WordCloud :cloud:
-<div align="center">  
- <p> 🧠 Exploring things I have learned  </p>  
- <img src="https://raw.githubusercontent.com/justramle/justramle/master/images/heartword.png" alt="WordCloud" width="50%">
-  <!--![Static Badge](https://img.shields.io/badge/Tensorflow-ECD53F?style=for-the-badge&logo=tensorflow&logoColor=white)-->
 
 </div> 
 
