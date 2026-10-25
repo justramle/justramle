@@ -12,7 +12,6 @@ Here is my digital sandbox where I spice things up with unexpected 'features'! ğ
 
 <!-- About -->
 ## About Me <img src="https://raw.githubusercontent.com/justramle/justramle/main/images/pro.png" alt="boba" width="8%">
-<img align="right" src="https://api.daily.dev/devcards/c2775addb6e44370809dfd34a6568f30.png?r=45r" width="10%" alt="Tram Le's Dev Card"/>
 
 <div> 
 
@@ -30,6 +29,8 @@ Here is my digital sandbox where I spice things up with unexpected 'features'! ğ
 </div>
 
 ## Tech stack... ğŸ› ï¸
+<img align="right" src="https://api.daily.dev/devcards/c2775addb6e44370809dfd34a6568f30.png?r=45r" width="10%" alt="Tram Le's Dev Card"/>
+
 
 ![Static Badge](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white)
