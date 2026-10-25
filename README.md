@@ -28,7 +28,7 @@ Here is my digital sandbox where I spice things up with unexpected 'features'! �
 </div>
 </div>
 
-## Tech stack... 🛠️
+## Tech stack 🛠️
 <img align="right" src="https://api.daily.dev/devcards/c2775addb6e44370809dfd34a6568f30.png?r=45r" width="12%" alt="Tram Le's Dev Card"/>
 
 
