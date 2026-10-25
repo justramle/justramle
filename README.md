@@ -22,7 +22,7 @@ Here is my digital sandbox where I spice things up with unexpected 'features'! �
   I even turned that love into code, check out what I built below! 
 
   <a href="https://justramle.github.io/boba/"><img src="https://img.shields.io/badge/🧋_Boba_Website-FF8FB1?style=for-the-badge&logoColor=white"></a>
-  <a href="https://justramle.github.io/boba-madness/"><img src="https://img.shields.io/badge/🎮_Boba_Game-D291E4?style=for-the-badge&logoColor=white"></a>
+  <a href="https://justramle.github.io/boba-madnesss/"><img src="https://img.shields.io/badge/🎮_Boba_Game-D291E4?style=for-the-badge&logoColor=white"></a>
 
     
 </div>
