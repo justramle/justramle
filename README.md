@@ -37,8 +37,8 @@ Here is my digital sandbox where I spice things up with unexpected 'features'! ð
 ![PyTorch Badge](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=fff&style=for-the-badge)
 ![Static Badge](https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/Pandas-D70F64?style=for-the-badge&logo=pandas&logoColor=white)
-![Static Badge](https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white)
 
+![Static Badge](https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/Git-D3FB52?style=for-the-badge&logo=git&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
